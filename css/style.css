@@ -877,6 +877,7 @@
 /*********************************************************************************/
 
 	.poptrox-popup {
+		border-radius: 20px;
 		background: #fff;
 		-moz-box-sizing: content-box;
 		-webkit-box-sizing: content-box;
@@ -888,6 +889,7 @@
 	}
 	
 		.poptrox-popup .loader {
+			border-radius: 20px;
 			width: 48px;
 			height: 48px;
 			background: url('images/loader.gif');
