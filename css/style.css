@@ -743,6 +743,11 @@
 				top: 0;
 				left: 0;
 				opacity: 1.0;
+
+				-moz-box-shadow:    3px 3px 5px 6px #ccc;
+                -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+                box-shadow:         3px 3px 5px 6px #ccc;
+
 			
 				-moz-transition: all 1s ease;
 				-webkit-transition: all 1s ease;
@@ -762,6 +767,7 @@
 
 				#work .row.images.inactive .image {
 					opacity: 0;
+					
 				}
 			
 				#work .row.images.inactive .image.l {
