@@ -44,6 +44,8 @@
 		font-size: 2.25em;
 		letter-spacing: -2px;
 		line-height: 1.25em;
+
+
 	}
 		
 	strong, b {
@@ -90,6 +92,7 @@
 	
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
+
 	}
 
 	header {
@@ -428,7 +431,7 @@
 			}
 			
 			.button:hover {
-				background-color: #a8d5a3;
+				background-color: #264CC9;
 			}
 			
 			.button:active {
@@ -442,7 +445,7 @@
 			}
 
 				.button.style2:hover {
-					background-color: rgba(145,146,147,0.035);
+					background-color: #264CC9;
 				}
 				
 				.button.style2.down {
@@ -478,6 +481,7 @@
 					font-size: 4.25em;
 					line-height: 1em;
 					letter-spacing: -4px;
+					text-shadow: 2px 2px 2px #264CC9;
 				}
 				
 				.main.style1 .content {
@@ -531,21 +535,21 @@
 					.main.style2.left .content {
 						left: 0;
 						border-radius: 20px;
-						-moz-box-shadow:    3px 3px 5px 6px black;
-  -webkit-box-shadow: 3px 3px 5px 6px black;
-  box-shadow:         3px 3px 5px 6px black;
+						-moz-box-shadow:    3px 3px 5px 6px #264CC9;
+                        -webkit-box-shadow: 3px 3px 5px 6px #264CC9;
+                        box-shadow:         3px 3px 5px 6px #264CC9;
 					}
 
 				.main.style2.right {
 				}
 
 					.main.style2.right .content {
-						left: 65%;
+						left: 75%;
 						border-radius: 20px;
 						border-radius: 20px;
-						-moz-box-shadow:    3px 3px 5px 6px black;
-  -webkit-box-shadow: 3px 3px 5px 6px black;
-  box-shadow:         3px 3px 5px 6px black;
+						-moz-box-shadow:    3px 3px 5px 6px #264CC9;
+                        -webkit-box-shadow: 3px 3px 5px 6px #264CC9;
+                        box-shadow:         3px 3px 5px 6px #264CC9;
 					}
 
 				.main.style2.inactive {
@@ -555,7 +559,7 @@
 					}
 
 						.main.style2.inactive.left .content {
-							left: -35%;
+							left: -65%;
 						}
 
 						.main.style2.inactive.right .content {
@@ -575,11 +579,12 @@
 					}
 
 				.main.style3.primary {
-					background: green;
+					background-image: url("../images/blurryCity.jpeg");
+					background-size: 100%;
 				}
 			
 				.main.style3.secondary {
-					background: green;
+					
 				}
 
 	/* Dark */
