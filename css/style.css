@@ -1,5 +1,6 @@
 @charset 'UTF-8';
-@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900');
+/*@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900');*/
+@import url('http://fonts.googleapis.com/css?family=Shadows+Into+Light');
 @import url('font-awesome.min.css');
 
 /*********************************************************************************/
@@ -22,7 +23,7 @@
 			}
 //this is in the MyWork zone
 	body,input,textarea,select {
-		font-family: 'Source Sans Pro', sans-serif;
+	    font-family: 'Shadows Into Light', cursive;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -41,7 +42,8 @@
 		}
 		
 	h2 {
-		font-size: 2.25em;
+		font-family: 'Shadows Into Light', cursive;
+		font-size: 70px;
 		letter-spacing: -2px;
 		line-height: 1.25em;
 
@@ -91,7 +93,11 @@
 	}
 	
 	p, ul, ol, dl, table {
+		font-family: 'Shadows Into Light', cursive;
+		font-weight: 1000;
+		text-shadow: 1px 1px 1px black;
 		margin-bottom: 1em;
+		font-size: 30px;
 
 	}
 
@@ -127,6 +133,7 @@
 
 		section > .content > :last-child,
 		article > .content > :last-child {
+
 			margin-bottom: 0;
 		}
 
@@ -478,9 +485,10 @@
 			}
 			
 				.main.style1 h2 {
-					font-size: 4.25em;
+					font-family: 'Shadows Into Light', cursive;
+					font-size: 70px;
 					line-height: 1em;
-					letter-spacing: -4px;
+					letter-spacing: 1px;
 					text-shadow: 2px 2px 2px #264CC9;
 				}
 				
@@ -534,6 +542,10 @@
 
 					.main.style2.left .content {
 						left: 0;
+						opacity: 60;
+						background-image: url('../images/acBlueprints.png');
+						background-size: 100%;
+						opacity: 80;
 						border-radius: 20px;
 						-moz-box-shadow:    3px 3px 5px 6px #264CC9;
                         -webkit-box-shadow: 3px 3px 5px 6px #264CC9;
@@ -648,7 +660,7 @@
 		top: 0;
 		width: 100%;
 		background: #fff;
-		background: rgba(255,255,255,0.95);
+		background: rgba(100,100,100,0.95);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
@@ -668,6 +680,7 @@
 	}
 	
 		#logo a {
+			font-family: 'Shadows Into Light', cursive;
 			font-size: 1.25em;
 		}
 	
