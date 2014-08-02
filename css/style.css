@@ -489,7 +489,7 @@
 					font-size: 70px;
 					line-height: 1em;
 					letter-spacing: 1px;
-					text-shadow: 2px 2px 2px #264CC9;
+					text-shadow: 1px 1px 1px #060606;
 				}
 				
 				.main.style1 .content {
@@ -546,10 +546,10 @@
 						background-image: url('../images/acBlueprints.png');
 						background-size: 100%;
 						opacity: 80;
-						border-radius: 20px;
-						-moz-box-shadow:    3px 3px 5px 6px #264CC9;
-                        -webkit-box-shadow: 3px 3px 5px 6px #264CC9;
-                        box-shadow:         3px 3px 5px 6px #264CC9;
+						border-radius: 5px;
+						-moz-box-shadow:    3px 3px 5px 6px ##060606;
+                        -webkit-box-shadow: 3px 3px 5px 6px ##060606;
+                        box-shadow:         3px 3px 5px 6px ##060606;
 					}
 
 				.main.style2.right {
