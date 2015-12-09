@@ -1050,3 +1050,9 @@
 			body.touch .poptrox-popup .closer {
 				opacity: 1.0 !important;
 			}
+.learning {
+	padding: 33px 33px;
+    background-color: grey;
+    width: 100%;
+    font-size: 19px;
+}
