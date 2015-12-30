@@ -83,11 +83,11 @@ angular
             return $ocLazyLoad.load({
               name:'sbAdminApp',
               files:[
-              'scripts/controllers/main.js',
-              'scripts/directives/timeline/timeline.js',
-              'scripts/directives/notifications/notifications.js',
-              'scripts/directives/chat/chat.js',
-              'scripts/directives/dashboard/stats/stats.js'
+              'app/scripts/controllers/main.js',
+              'app/scripts/directives/timeline/timeline.js',
+              'app/scripts/directives/notifications/notifications.js',
+              'app/scripts/directives/chat/chat.js',
+              'app/scripts/directives/dashboard/stats/stats.js'
               ]
             }),
             $ocLazyLoad.load({
@@ -99,7 +99,7 @@ angular
             }),
             $ocLazyLoad.load({
                 name:'sbAdminApp',
-                files:['scripts/controllers/chartContoller.js']
+                files:['app/scripts/controllers/chartContoller.js']
             })
           }
         }
@@ -131,7 +131,7 @@ angular
             }),
             $ocLazyLoad.load({
                 name:'sbAdminApp',
-                files:['scripts/controllers/chartContoller.js']
+                files:['app/scripts/controllers/chartContoller.js']
             })
           }
         }
