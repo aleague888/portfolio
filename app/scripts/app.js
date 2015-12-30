@@ -33,10 +33,10 @@ angular
                 {
                     name:'sbAdminApp',
                     files:[
-                    'directives/header/header.js',
-                    'directives/header/header-notification/header-notification.js',
-                    'directives/sidebar/sidebar.js',
-                    'directives/sidebar/sidebar-search/sidebar-search.js'
+                    '../directives/header/header.js',
+                    '../directives/header/header-notification/header-notification.js',
+                    '../directives/sidebar/sidebar.js',
+                    '../directives/sidebar/sidebar-search/sidebar-search.js'
                     ]
                 }),
                 $ocLazyLoad.load(
