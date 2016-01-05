@@ -24,13 +24,13 @@ body {
 }
 .navbar-blue{
     background: rgba(183,222,237,1);
-background: -moz-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(183,222,237,1)), color-stop(25%, rgba(113,206,239,1)), color-stop(53%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
-background: -webkit-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: -o-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=0 );
+    background: -moz-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(183,222,237,1)), color-stop(25%, rgba(113,206,239,1)), color-stop(53%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
+    background: -webkit-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: -o-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=0 );
 }
 .navbar-top-links {
     margin-right: 0;
@@ -369,14 +369,13 @@ table.dataTable thead .sorting:after {
     background-color: #FA8F02;
 }
 .panel-blue {
-
     background: rgba(183,222,237,1);
-background: -moz-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(183,222,237,1)), color-stop(25%, rgba(113,206,239,1)), color-stop(53%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
-background: -webkit-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: -o-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=0 );
+    background: -moz-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(183,222,237,1)), color-stop(25%, rgba(113,206,239,1)), color-stop(53%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
+    background: -webkit-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: -o-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: -ms-linear-gradient(top, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    background: linear-gradient(to bottom, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 25%, rgba(33,180,226,1) 53%, rgba(183,222,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=0 );
 }
 
