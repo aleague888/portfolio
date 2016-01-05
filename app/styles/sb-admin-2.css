@@ -324,13 +324,13 @@ table.dataTable thead .sorting:after {
 }
 
 .panel-red {
-    border-color: #d9534f;
+    border-color: #F7022F;
 }
 
 .panel-red .panel-heading {
-    border-color: #d9534f;
+    border-color: #F7022F;
     color: #fff;
-    background-color: #d9534f;
+    background-color: #F7022F;
 }
 
 .panel-red a {
@@ -342,13 +342,13 @@ table.dataTable thead .sorting:after {
 }
 
 .panel-yellow {
-    border-color: #f0ad4e;
+    border-color: #CADB32;
 }
 
 .panel-yellow .panel-heading {
-    border-color: #f0ad4e;
+    border-color: #CADB32;
     color: #fff;
-    background-color: #f0ad4e;
+    background-color: #CADB32;
 }
 
 .panel-yellow a {
@@ -357,6 +357,16 @@ table.dataTable thead .sorting:after {
 
 .panel-yellow a:hover {
     color: #df8a13;
+}
+.panel-aqua .panel-heading {
+    border-color: #0EC4BB;
+    color: #fff;
+    background-color: #0EC4BB;
+}
+.panel-orange .panel-heading {
+    border-color: #FA8F02;
+    color: #fff;
+    background-color: #FA8F02;
 }
 .panel-blue {
 
