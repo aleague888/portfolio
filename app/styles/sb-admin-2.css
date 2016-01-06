@@ -7,7 +7,7 @@ body {
 
 #wrapper {
     width: 100%;
-    background-image: url('../../tallmall.jpg');
+    background-image: url('../../tallMall.jpg');
     background-repeat: no-repeat;
 }
 
@@ -24,6 +24,9 @@ body {
         padding: 0 30px;
         border-left: 1px solid #e7e7e7;
     }
+}
+.navbar-solid-blue {
+    background-color: #076AF5;
 }
 .navbar-blue{
     background: rgba(183,222,237,1);
