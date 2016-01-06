@@ -7,6 +7,8 @@ body {
 
 #wrapper {
     width: 100%;
+    background-image: url('../../tallmall.jpg');
+    background-repeat: no-repeat;
 }
 
 #page-wrapper {
