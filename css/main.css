@@ -42,6 +42,9 @@ p.desc-text{
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
 }
+.img {
+    border-radius: 3px;
+}
 .img-section-space {
     margin-top: 5px;
 }
