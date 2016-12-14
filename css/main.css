@@ -43,7 +43,7 @@ p.desc-text{
     -webkit-font-smoothing: antialiased;
 }
 .img {
-    border-radius: 3px;
+    border-radius: 3px !important;
 }
 .img-section-space {
     margin-top: 5px;
